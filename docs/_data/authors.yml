@@ -1,0 +1,7 @@
+julien:
+  name: Julien
+  picture: /images/julien.jpg
+  links: 
+    - title: Mastodon
+      url: https://scholar.social/@Boorhin
+      icon: fa-brands fa-mastodon
