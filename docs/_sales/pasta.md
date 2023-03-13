@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Fresh pasta"
+title: "Fresh homemade pasta"
 image:
   path: /images/pasta_cover.jpg
   thumbnail: /images/pasta_cover_tb.jpg
@@ -22,4 +22,4 @@ We generally do not provide packaging, we do exchange them with our customers. W
 Please order them in advance as they are best fresh.
 
 ## How to cook
-Fresh pasta are much fresher than shop ones. Once you have your water to a hard boil, add a few drops of olive oil and salt. Then add the pasta, try to not clump them. They will float when cooked. For best results you can fish them as they come up so that they are all cooked similarly. The cooking may take 30s if there is a lot of water boiling hard.
+Fresh pasta are much fresher than shop ones. Once you have your water to a hard boil, add a few drops of olive oil and salt. If you have a little home-made stock somewhere that adds a lot too. Then add the pasta, try to not clump them. They will float when cooked. For best results you can fish them as they come up so that they are all cooked similarly. The cooking may only take 30s if there is a lot of water boiling hard.

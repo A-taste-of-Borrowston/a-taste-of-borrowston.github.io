@@ -61,3 +61,5 @@ search_full_content: false
 collections:
   sales:
     output: true
+  posts:
+    output: true
