@@ -59,7 +59,7 @@ skin: "/assets/css/skins/dark.css"
 read_time: true
 search_full_content: false
 collections:
-  sales:
+  products:
     output: true
   posts:
     output: true

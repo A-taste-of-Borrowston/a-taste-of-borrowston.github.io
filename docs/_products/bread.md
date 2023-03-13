@@ -16,5 +16,7 @@ We bake for ourselves at least twice a week and could add another loaf if needed
 
 * £3.5 the loaf of 500g
 
+Please [get in touch](mailto:dsl6a04ab@mozmail.com) if you want to buy our products.
+
 ## Remarks
 We can deliver if you are in Carloway or Shawbost.

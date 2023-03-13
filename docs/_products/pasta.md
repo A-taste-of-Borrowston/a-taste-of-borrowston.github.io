@@ -13,11 +13,13 @@ We make a lot of things ourselves at home. Making pasta has been a staple food i
 We will also make speciality pasta including laver, different plants and grains as they become of season.
 We can make lasagne, fettuccine and tagliolini
 
-## price
+## Price
 
 * £1 per portion (2x 75g). A portion is for one person as a full meal, two if it is a secondary side dish.
 
-## remark
+Please [get in touch](mailto:dsl6a04ab@mozmail.com) if you want to buy our products.
+
+## Remark
 We generally do not provide packaging, we do exchange them with our customers. We also can deliver if you are in Carloway or Shawbost.
 Please order them in advance as they are best fresh.
 
