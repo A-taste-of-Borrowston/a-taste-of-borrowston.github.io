@@ -38,3 +38,6 @@ gem "http_parser.rb", "~> 0.8.0", :platforms => [:jruby]
 # https://stackoverflow.com/questions/65989040/bundle-exec-jekyll-serve-cannot-load-such-file
 
 gem "webrick"
+
+# get better seo
+gem 'jekyll-seo-tag'
