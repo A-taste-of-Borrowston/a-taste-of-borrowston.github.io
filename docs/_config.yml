@@ -23,9 +23,9 @@ email: dsl6a04ab@mozmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Our croft at 10 Borrowston, in Carloway, Isle of Lewis.
   We sell free range and organic products and share experience from our learnings.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "a-taste-of-borrowston.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ""
+# baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://a-taste-of-borrowston.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: ""
 github_username:  boorhin
 
 # Build settings
@@ -64,3 +64,15 @@ collections:
     output: true
   posts:
     output: true
+    
+#defaults:
+#  - scope:
+#      path: ""
+#    values:
+#      image: /images/default-card.png
+      
+footer_links:
+   - title: Feed
+     url: atom.xml
+     icon: fas fa-rss-square 
+

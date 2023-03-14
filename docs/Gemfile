@@ -41,3 +41,6 @@ gem "webrick"
 
 # get better seo
 gem 'jekyll-seo-tag'
+
+# better retry
+gem 'faraday-retry'
