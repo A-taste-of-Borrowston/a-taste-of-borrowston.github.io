@@ -13,8 +13,8 @@ The term open-pasture is used because free-range today corresponds to a chicken 
 
 ## Prices
 
-* £1.5 for 6
-* £3 for 12
+* __£1.5__ for 6
+* __£3__ for 12
 
 Please [get in touch](mailto:dsl6a04ab@mozmail.com) if you want to buy our products.
 

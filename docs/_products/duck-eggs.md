@@ -12,7 +12,7 @@ We have 3 ducks on the croft that have the task of clearing the place of slugs, 
 
 ## Price
 
-* £2.5 for 6
+* __£2.5__ for 6
 
 Please [get in touch](mailto:dsl6a04ab@mozmail.com) if you want to buy our products.
 

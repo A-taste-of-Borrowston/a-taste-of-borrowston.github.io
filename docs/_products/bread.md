@@ -14,7 +14,7 @@ We bake for ourselves at least twice a week and could add another loaf if needed
 
 ## Price
 
-* £3.5 the loaf of 500g
+* __£3.5__ the loaf of 500g
 
 Please [get in touch](mailto:dsl6a04ab@mozmail.com) if you want to buy our products.
 
