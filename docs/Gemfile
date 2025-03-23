@@ -44,3 +44,6 @@ gem 'jekyll-seo-tag'
 
 # better retry
 gem 'faraday-retry'
+
+# force nokogiri update
+gem 'nokogiri', '~> 1.18', '>= 1.18.4'
